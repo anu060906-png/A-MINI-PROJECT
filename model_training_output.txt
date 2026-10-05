@@ -1,0 +1,4 @@
+Algorithm: Decision Tree Classifier
+Training status: Model trained successfully
+Number of training samples: 120
+Number of features: 4

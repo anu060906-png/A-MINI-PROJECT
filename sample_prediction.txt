@@ -1,0 +1,7 @@
+Input:
+Sepal Length = 5.1 cm
+Sepal Width = 3.5 cm
+Petal Length = 1.4 cm
+Petal Width = 0.2 cm
+
+Predicted Species: setosa

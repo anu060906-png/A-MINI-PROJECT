@@ -1,0 +1,6 @@
+Total records: 150
+Training records: 120
+Testing records: 30
+Training percentage: 80%
+Testing percentage: 20%
+random_state: 42
